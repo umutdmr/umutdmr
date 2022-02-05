@@ -1,7 +1,7 @@
 ### Hi there 👋
 Sophomore CS student at Bogazici University
 
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning android development using Kotlin language and game development using Unity game engine.
 - 📫 How to reach me: umutdmr315@gmail.com
 
 
